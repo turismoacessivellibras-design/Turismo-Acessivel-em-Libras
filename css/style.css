@@ -1813,6 +1813,6 @@ section[id="videos"] {
   width: auto;
   object-fit: contain;
   margin-left: 4px;
-  transform: scale(1.35);
+  transform: scale(1.5);
   transform-origin: center;
 }
