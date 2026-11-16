@@ -1807,3 +1807,10 @@ section[id="videos"] {
     border-radius: 24px;
   }
 }
+
+.logo-ifms {
+  height: 58px;
+  width: auto;
+  object-fit: contain;
+  margin-left: 15px;
+}
