@@ -1809,9 +1809,10 @@ section[id="videos"] {
 }
 
 .logo-ifms {
-  height: 78px;
+  height: 95px;
   width: auto;
   object-fit: contain;
-  margin-left: 15px;
-  vertical-align: middle;
+  margin-left: 4px;
+  transform: scale(1.35);
+  transform-origin: center;
 }
